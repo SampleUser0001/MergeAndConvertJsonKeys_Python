@@ -131,3 +131,7 @@ dmypy.json
 # log
 log/*
 !log/.gitkeep
+
+# App
+app/input/*.json
+!app/input/.gitkeep

@@ -2,6 +2,6 @@ version: '3'
 services:
   python:
     build: .
-    container_name: python
+    container_name: import_json
     volumes:
       - ./app:/opt/app
